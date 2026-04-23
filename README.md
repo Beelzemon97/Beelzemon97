@@ -9,53 +9,38 @@
 
 ## 🧠 Profile
 
-Software developer specialized in the .NET ecosystem, focused on building **scalable backend systems**, REST APIs, and cross-platform applications.
+Software developer specialized in the .NET ecosystem with experience designing and delivering **end-to-end solutions** for real-world industrial environments.
+
+Strong focus on **backend architecture, API design, and cloud deployment**, combined with cross-platform application development using .NET MAUI.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Core Expertise
 
-### 🧩 Backend
+* **Backend Development**
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" />
-</p>
+  * ASP.NET Core (Web API)
+  * Entity Framework Core
+  * Mapster (object mapping)
+  * JWT Authentication & Role-Based Authorization
 
-* C#, ASP.NET Core, Entity Framework Core, Mapster
-* REST APIs, JWT Authentication, Role-Based Access
+* **Application Development**
 
----
+  * .NET MAUI (Mobile & Desktop)
+  * Field-data capture systems
+  * Offline-friendly workflows
 
-### 📱 Applications
+* **Cloud & DevOps**
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" />
-</p>
+  * Azure App Service
+  * Azure SQL Database
+  * CI/CD pipelines with GitHub Actions
 
-* .NET MAUI (Mobile & Desktop)
+* **System Design**
 
----
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-</p>
-
-* Azure App Service
-* Azure SQL Database
-* GitHub Actions (CI/CD)
-
----
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" />
-</p>
+  * RESTful architecture
+  * Relational database modeling
+  * File handling (multipart/form-data, media storage)
 
 ---
 
@@ -63,24 +48,47 @@ Software developer specialized in the .NET ecosystem, focused on building **scal
 
 ### SICRY — Industrial Maintenance Management System
 
-End-to-end platform for managing technical operations in industrial environments.
+End-to-end platform for managing technical operations in industrial maintenance environments.
 
-**Highlights:**
+**Architecture Highlights:**
 
-* REST API with ASP.NET Core
-* JWT authentication & role-based access
-* Mobile & desktop apps with .NET MAUI
-* File upload system (multimedia evidence)
-* CI/CD with GitHub Actions
-* Deployed on Azure
+* REST API built with ASP.NET Core
+* Secure authentication using JWT and role-based access
+* Modular design for scalability and maintainability
+
+**Applications:**
+
+* Desktop supervision system (user, asset, and report management)
+* Mobile app for field technicians (reporting + multimedia evidence)
+
+**Key Capabilities:**
+
+* Assignment tracking and operational workflows
+* Technical report generation
+* Media upload (photos, videos, documents)
+* Cloud deployment in Azure
+* Automated CI/CD pipeline
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beelzemon97&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzemon97&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Current Focus
+
+* Designing scalable backend architectures in .NET
+* I’m currently learning Angular Framework to strengthen my full-stack skill set.
+* Improving performance and maintainability of distributed systems
+* Deepening knowledge in cloud-native development with Azure
 
 ---
 
